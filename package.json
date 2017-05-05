@@ -1,0 +1,26 @@
+{
+  "name": "npmtest",
+  "version": "1.1.0",
+  "description": "testing npm server for couchdb endpoints",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielpflood/npmtest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Daniel Flood <daniel@floodweb.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielpflood/npmtest/issues"
+  },
+  "homepage": "https://github.com/danielpflood/npmtest#readme"
+}
